@@ -4,6 +4,8 @@ excerpt: Manage group locations for a weekly meeting
 layout: single
 classes: wide
 header:
+  overlay_color: "#5ac7be"
+  overlay_filter: "0.3"
   teaser: assets/images/faith-promise-logo.png
   actions:
     - label: "View on Github"

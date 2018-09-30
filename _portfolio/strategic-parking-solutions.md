@@ -3,6 +3,8 @@ title: Strategic Parking Solutions
 layout: single
 classes: wide
 header:
+  overlay_color: "#fff"
+  overlay_filter: "0.3"
   overlay_image: assets/images/night-parking.jpg
   teaser: assets/images/sps-logo.jpg
   actions:

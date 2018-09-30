@@ -7,6 +7,8 @@ sidebar:
   - title: "Final Class Project"
     text: "Parallel Programing - Fall 2012"
 header:
+  overlay_color: "#fff"
+  overlay_filter: "0.9"
   overlay_image: assets/images/partical-sim-placeholder.jpg
   teaser: assets/images/partical-sim-placeholder.jpg
   actions:

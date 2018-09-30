@@ -4,6 +4,8 @@ excerpt: The internet needed a place to get filler images of Zach The Great.
 layout: single
 classes: wide
 header:
+  overlay_color: "#fff"
+  overlay_filter: "0.6"
   overlay_image: assets/images/faces-of-zach.jpg
   teaser: assets/images/faces-of-zach.jpg
   actions:
