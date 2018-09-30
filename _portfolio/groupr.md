@@ -8,9 +8,9 @@ header:
   overlay_filter: "0.3"
   teaser: assets/images/groupr-logo.jpg
   actions:
-    - label: "View Web Application on Github"
+    - label: "<i class='fab fa-github'></i> View Web Application on Github"
       url: "https://github.com/zachnthebox/groupr"
-    - label: "View API on Github"
+    - label: "<i class='fab fa-github'></i> View API on Github"
       url: "https://github.com/zachnthebox/groupr-api"
 ---
 

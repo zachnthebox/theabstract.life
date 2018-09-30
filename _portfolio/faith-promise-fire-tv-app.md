@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.3"
   teaser: assets/images/faith-promise-logo.png
   actions:
-    - label: "View on Github"
+    - label: "<i class='fab fa-github'></i> View on Github"
       url: "https://github.com/faithpromise/faith-promise-fire-tv-app"
 ---
 

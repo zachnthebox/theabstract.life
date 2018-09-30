@@ -11,7 +11,7 @@ header:
   actions:
     - label: "Website"
       url: "https://facesofzach.com"
-    - label: "View on Github"
+    - label: "<i class='fab fa-github'></i> View on Github"
       url: "https://github.com/zachnthebox/faces-of-zach"
 ---
 

@@ -12,7 +12,7 @@ header:
   overlay_image: assets/images/partical-sim-placeholder.jpg
   teaser: assets/images/partical-sim-placeholder.jpg
   actions:
-    - label: "View on Github"
+    - label: "<i class='fab fa-github'></i> View on Github"
       url: "https://github.com/zachnthebox/cs462-particle-simulator"
 ---
 
