@@ -1,6 +1,6 @@
 ---
 title: Fire TV App for Faith Promise Church
-excerpt: Manage group locations for a weekly meeting
+excerpt: Stream and watch their sermons on the Fire TV 
 layout: single
 classes: wide
 header:
